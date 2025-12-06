@@ -1,5 +1,5 @@
 # 💫 About Me:
--->I am a Competitive Programmer and a Frontend Developer with a decent understanding of Data Structures and Algorithms .<br><br>-- > Proficient in C++, I also have experience with Java, C, Python, MySQL, JavaScript, and ReactJS, allowing me to build functional and dynamic web applications.<br><br>-->• C++ | Python | OOPS | Data Structures and Algorithms.<br>• HTML5 | CSS3 | JavaScript | TailwindCSS | React.JS | Node.JS | Express.JS | MongoDB | MySQL |<br>REST API | Git and Github<br>• Operating System | Database Management System | Computer Networks
+-->I am a Competitive Programmer and a Frontend Developer with a decent understanding of Data Structures and Algorithms .<br><br>-- > Proficient in C++, I also have experience with Java, C, Python, MySQL, JavaScript, and ReactJS, allowing me to build functional and dynamic web applications.
 
 
 # 💻 Tech Stack:
