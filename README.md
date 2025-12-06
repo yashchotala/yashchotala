@@ -1,5 +1,4 @@
-# 💫  Hello 👋, I'm Yashraj Chotele<br><br>
-A passionate MERN stack developer and Competitive Programmer
+# 💫  Hello 👋, I'm Yashraj Chotele<br><br>A passionate MERN stack developer and Competitive Programmer
 
 
 ## 🌐 Connect with me::
