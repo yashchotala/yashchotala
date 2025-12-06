@@ -1,5 +1,5 @@
-# 💫 About Me:
--->I am a Competitive Programmer and a Frontend Developer with a decent understanding of Data Structures and Algorithms .<br><br>-- > Proficient in C++, I also have experience with Java, C, Python, MySQL, JavaScript, and ReactJS, allowing me to build functional and dynamic web applications.
+#                                    💫 Hello 👋, I'm Yashraj Chotele
+A passionate MERN stack developer and Competitive Programmer
 
 
 # 💻 Tech Stack:
