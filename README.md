@@ -1,7 +1,8 @@
-# 💫  Hello 👋, I'm Yashraj Chotele<br><br>A passionate MERN stack developer and Competitive Programmer
+# 💫  Hello 👋, I'm Yashraj Chotele<br><br>
+A passionate MERN stack developer and Competitive Programmer
 
 
-## 🌐 Socials:
+## 🌐 Connect with me::
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashraj-chotele/) 
 
 # 💻 Tech Stack:
